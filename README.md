@@ -19,6 +19,7 @@ MySQL
 4. province_names
 
 *Queries of the Project:-
+
 Q1: Show unique birth years from patients and order them by ascending.
 
 Q2: Show unique first names from the patients table which only occurs once in the list. 
