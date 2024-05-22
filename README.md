@@ -10,13 +10,13 @@ MySQL
 
 *Tables Used:-
 
-1. patients
+1.patients
 
-2. doctors
+2.doctors
 
-3. admissions
+3.admissions
 
-4. province_names
+4.province_names
 
 *Queries of the Project:-
 
