@@ -44,3 +44,12 @@ Q10: Show all allergies ordered by popularity. Remove NULL values from query.
 Q11: Show all patient's first_name, last_name, and birth_date who were born in the 1970s decade. Sort the list starting from the earliest birth_date.
 
 Q12: We want to display each patient's full name in a single column. Their last_name in all upper letters must appear first, then first_name in all lower case letters. Separate the last_name and first_name with a comma. Order the list by the first_name in decending order. EX: SMITH,jane
+
+*Insights:-
+
+1. Congestive Heart Failure is the most frequent diagnosis.
+2. Dr. Claude has the highest no. of the patients.
+3. Patients diagnosed with major depression have more days of stay.
+4. A spike in admissions during the winter season.
+5. Most patients are from the Province of Ontario.
+
